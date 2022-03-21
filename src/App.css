@@ -1,0 +1,12 @@
+.card-link-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  
+}
+
+.card-link {
+  background-color: #333;
+  color: #FFF;
+}
